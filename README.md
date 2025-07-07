@@ -4,10 +4,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hazem-alyaari">
+  <a href="[https://www.linkedin.com/in/hazem-alyaari](https://www.linkedin.com/in/hazem-alyaari-23973b2a7/)">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:hazem.alyaari@example.com">
+  <a href="mailto:alyaarihazem@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=AlyaariHazem&style=for-the-badge">
@@ -44,9 +44,8 @@
 ---
 
 ## 🌱 How to Reach Me
-- 📫 **Email:** hazem.alyaari@example.com  
-- 📱 **WhatsApp / Phone:** +967-772-622-928  
-- 📝 **Blog:** https://hazem.dev/blog
+- 📫 **Email:** alyaarihazem@gmail.com  
+- 📱 **WhatsApp / Phone:** +967-776-137-120  
 
 ---
 
